@@ -24,7 +24,6 @@ Please add this comment in your solution.
 ## Next SCPC
 | Name     | Type          | Date                        |
 |----------|---------------|-----------------------------|
-| UMN SCPC | Warming up    | September 2nd, 2017         |
 | UMN SCPC | Qualification | September 3rd, 2017         |
 | UII SCPC | Final         | September 9th, 2017         |
 | GEMASTIK | Warming up    | September 12th - 14th, 2017 |
