@@ -22,10 +22,14 @@ Please add this comment in your solution.
 ```
 
 ## Next SCPC
-| Name     | Type          | Date                |
-|----------|---------------|---------------------|
-| UMN SCPC | Qualification | September 2nd, 2017 |
-| UII SCPC | Final         | September 9th, 2017 |
+| Name     | Type          | Date                        |
+|----------|---------------|-----------------------------|
+| UMN SCPC | Warming up    | September 2nd, 2017         |
+| UMN SCPC | Qualification | September 3rd, 2017         |
+| UII SCPC | Final         | September 9th, 2017         |
+| GEMASTIK | Warming up    | September 12th - 14th, 2017 |
+| GEMASTIK | Qualification | September 30th, 2017        |
+| GEMASTIK | Final         | November 2nd - 4th, 2017    |
 
 ## Maintainer
 Maintained by Proclub competitive programming team.
