@@ -1,0 +1,35 @@
+/*! Solved by: @wisn
+ *  License  : CC-BY 4.0
+ */
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main(){
+  short t;
+  cin >> t;
+
+  short i;
+  long long a, b, j, x, total = 0;
+  for (i = 0; i < t; i++)
+  {
+    cin >> a >> b;
+    while (a--)
+    {
+      cin >> x;
+      total += x;
+    }
+
+    total = ceil(b / (float) total);
+
+    cout << "Case #" << i + 1 << ": "
+         << total << endl;
+
+    total = 0;
+  }
+
+  return 0;
+};
+
+
