@@ -24,7 +24,6 @@ Please add this comment in your solution.
 ## Next SCPC
 | Name      | Type        | Date                        |
 |-----------|-------------|-----------------------------|
-| UII SCPC  | Final       | September 9th, 2017         |
 | GEMASTIK  | Warming up  | September 12th - 14th, 2017 |
 | GEMASTIK  | Elimination | September 30th, 2017        |
 | BINUS INC | Elimination | October 15th, 2017          |
@@ -38,3 +37,4 @@ This archive contain a challenge that downloaded from the host and
 a solution that provided by Proclub competitive programming team.
 Each copyright of the challenge files belong to the host.
 Each copyright of the solution listed here belong to the solver.
+
