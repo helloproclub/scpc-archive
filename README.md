@@ -29,6 +29,20 @@ Please add this comment in your solution.
 | BINUS INC | Elimination | October 15th, 2017          |
 | GEMASTIK  | Final       | November 2nd - 4th, 2017    |
 
+## List of SCPC
+| Name      | Estimated Reg. Date |
+|-----------|---------------------|
+| Vocomfest | March               |
+| ITobaFest | April - May         |
+| CompFest  | May - June          |
+| Maranatha | April - June        |
+| GEMASTIK  | June - July         |
+| FesTIval  | July - August       |
+| UII ICSW  | June - August       |
+| TechFEST  | June - August       |
+| BINUS INC | September - October |
+
+
 ## Maintainer
 Maintained by Proclub competitive programming team.
 
