@@ -30,18 +30,18 @@ Please add this comment in your solution.
 | GEMASTIK  | Final       | November 2nd - 4th, 2017    |
 
 ## List of SCPC
-| Name      | Estimated Reg. Date |
-|-----------|---------------------|
-| Vocomfest | March               |
-| ITobaFest | April - May         |
-| CompFest  | May - June          |
-| Maranatha | April - June        |
-| GEMASTIK  | June - July         |
-| FesTIval  | July - August       |
-| UII ICSW  | June - August       |
-| TechFEST  | June - August       |
-| BINUS INC | September - October |
-
+| Name       | Estimated Reg. Date |
+|------------|---------------------|
+| Vocomfest  | March               |
+| ITobaFest  | April - May         |
+| CompFest   | May - June          |
+| Maranatha  | April - June        |
+| GEMASTIK   | June - July         |
+| FesTIval   | July - August       |
+| UII ICSW   | June - August       |
+| TechFEST   | June - August       |
+| BINUS INC  | September - October |
+| IEEEXtreme | September - October |
 
 ## Maintainer
 Maintained by Proclub competitive programming team.
