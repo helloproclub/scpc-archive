@@ -13,7 +13,7 @@ scpc-archive/
 ```
 
 ## Solution
-Please add this comment in your solution.
+Please add this comment into your solution.
 
 ```c++
 /*! Solved by: @githubUsername
@@ -47,8 +47,8 @@ Please add this comment in your solution.
 Maintained by Proclub competitive programming team.
 
 ## License
-This archive contain a challenge that downloaded from the host and
-a solution that provided by Proclub competitive programming team.
+This archive contain challenges that downloaded from the host and
+solutions that provided by Proclub competitive programming team.
 Each copyright of the challenge files belong to the host.
 Each copyright of the solution listed here belong to the solver.
 
