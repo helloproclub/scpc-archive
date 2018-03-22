@@ -1,7 +1,9 @@
 # SCPC Archive
+
 An archive of senior competitive programming contest.
 
 ## Directory Structure
+
 ```
 scpc-archive/
   (host|name)/
@@ -13,6 +15,7 @@ scpc-archive/
 ```
 
 ## Solution
+
 Please add this comment into your solution.
 
 ```c++
@@ -21,15 +24,17 @@ Please add this comment into your solution.
  */
 ```
 
-## Next SCPC
-| Name      | Type        | Date                        |
-|-----------|-------------|-----------------------------|
-| GEMASTIK  | Warming up  | September 12th - 14th, 2017 |
-| GEMASTIK  | Elimination | September 30th, 2017        |
-| BINUS INC | Elimination | October 15th, 2017          |
-| GEMASTIK  | Final       | November 2nd - 4th, 2017    |
+## Upcoming SCPC
+
+| Name      | Type         | Date                   |
+|-----------|--------------|------------------------|
+| Vocomfest | Registration | March 3rd - 30th, 2018 |
+| Vocomfest | Warming up   | April 6th, 2018        |
+| Vocomfest | Elimination  | April 8th, 2018        |
+| Vocomfest | Final        | April 22nd, 2018       |
 
 ## List of SCPC
+
 | Name       | Estimated Reg. Date |
 |------------|---------------------|
 | Vocomfest  | March               |
@@ -44,9 +49,11 @@ Please add this comment into your solution.
 | IEEEXtreme | September - October |
 
 ## Maintainer
+
 Maintained by Proclub competitive programming team.
 
 ## License
+
 This archive contain challenges that downloaded from the host and
 solutions that provided by Proclub competitive programming team.
 Each copyright of the challenge files belong to the host.
