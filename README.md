@@ -33,6 +33,12 @@ Please add this comment into your solution.
 | Vocomfest | Elimination  | April 8th, 2018        |
 | Vocomfest | Final        | April 22nd, 2018       |
 
+| Name      | Type         | Date                   |
+|-----------|--------------|------------------------|
+| Ideafuse  | Registration | Feb 26th - April 17th, 2018 |
+| Ideafuse  | Elimination  | Mei 6th, 2018        |
+| Ideafuse  | Final        | Mei 26th, 2018       |
+
 ## List of SCPC
 
 | Name       | Estimated Reg. Date |
